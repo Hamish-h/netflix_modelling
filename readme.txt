@@ -1,5 +1,11 @@
 Netflix Model
 
+SEE PDF FOR SKETCH
+
+
+
+TASK
+
 The task was to model one of the following:
 
 Netflix
@@ -8,7 +14,10 @@ BBC News Website
 
 "Think about what database tables this site would need, and what relationships they would have to each other. Are they one-to-one, one-to-many, or many-to-many?""
 
-----------------------------------------------------------------------------------
+
+
+SOLUTION
+
 
 Netflix Model
 
