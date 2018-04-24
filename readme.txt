@@ -19,11 +19,11 @@ MOVIE
 A table with a one to one relationship for a single Movie
 containing id, name, description and length .
 
-ACTOR
+ACTORS
 A table with a one to one relationship for a Single Actor
 containing id, name and biography_id
 
-DIRECTOR
+DIRECTORS
 A table with a one to one relationship for a Single Director
 containing id, name and biography_id
 
@@ -34,7 +34,7 @@ BIOGRAPHY
 A table with a one to one many relationships for both director and actor (who could be both)
 containing only id and bio_text
 
-RATING
+RATINGS
 A table with one to many relationship for movie ratings.
 containing id, rating and movie_id
 to allow for different versions of a film (u, pg and 15, etc)
